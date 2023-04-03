@@ -1,0 +1,20 @@
+id;nom;sexe;age;Note;mention;work;revenu;region
+1;ali1;M;47;2;assez bien;0;185434;ouaga
+2;traore1;F;20;13;bien;0;123967;moscou
+3;damiba1;F;49;14;bien;0;101506;lome
+4;bazoum1;M;64;20;excellent;1;77282;niamey
+5;ali2;F;56;15;bien;1;167483;papouasie
+6;traore2;M;61;17;excellent;0;137986;simgapour
+7;damiba2;F;40;7;assez bien;0;149399;monaco
+8;bazoum2;F;32;15;bien;0;68518;papouasie
+9;ali3;M;35;0;assez bien;0;82009;moscou
+10;traore3;F;27;19;excellent;0;174653;lome
+11;damiba3;M;31;7;assez bien;0;77372;papouasie
+12;bazoum3;F;15;5;assez bien;1;83620;new york
+13;ali4;F;17;7;assez bien;1;71937;simgapour
+14;traore4;M;16;1;assez bien;1;156521;monaco
+15;damiba4;F;67;11;assez bien;0;120751;ouaga
+16;bazoum4;M;87;3;assez bien;0;129936;papouasie
+17;ali5;F;85;16;excellent;1;135500;lome
+18;traore5;F;43;10;assez bien;1;123247;niamey
+19;damiba5;M;19;20;excellent;0;40439;papouasie
